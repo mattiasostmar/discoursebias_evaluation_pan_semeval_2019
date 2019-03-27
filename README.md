@@ -14,3 +14,6 @@ Assuming that either "Dispersed" or "Diversified" is equivalent to `hyperpartisa
 Assuming that "Dispersed" means `hyperpartisan=false` and "Biased" means `hyperpartisan=true`:
 
 ![Dispersed vs Biased results](only_biased_and_dispersed_bias_index_scores_result.png?raw=true "Dispersed vs Biased results")
+
+## See also
+An 2018 overview of the problem of measuring media bias in the cross-roads of social sciences and computer science can be found in [Automated identification of media bias in news articles: an interdisciplinary literature review](https://doi.org/10.1007/s00799-018-0261-y)
