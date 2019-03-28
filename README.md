@@ -32,7 +32,7 @@ discoursebias_evaluation_pan_semeval_2019/
 ```
 Make sure you are in the root folder (this repo) and start the notebook server by running `jupyter notebook` in your terminal.
 
-You only need to run the notebooks numbered 1a, 2 and 3, since number 1b, 1c where only to make sure that leaving paragraphs or not when parsing the xml-files didn't affect the end result.
+You only need to run the notebooks numbered 1a, 2, 3 and 4 since number 1b, 1c where only to make sure that leaving paragraphs or not when parsing the xml-files didn't affect the end result.
 
 ## Evaluation results
 
