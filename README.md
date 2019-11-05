@@ -1,5 +1,9 @@
 # Overview
-After reading Dmitry Paranyushkins towardsdatascience blog post [Measuring discourse bias using text network analysis](, see https://towardsdatascience.com/measuring-discourse-bias-using-text-network-analysis-9f251be5f6f3. ) I wanted to see if his thesis could be tested via an Python implementation. After contacting Dmitry I decided to code a library according to his instructions. We ended up coding it together, evaluate it on the [PAN Semeval 2019 Hyperpartisan News Detection dataset](https://pan.webis.de/semeval19/semeval19-web/) and publish the results here. The code is hosted on [Gitlab](https://gitlab.com/mattiasostmar/discoursediversity). 
+After reading Dmitry Paranyushkins towardsdatascience blog post [Measuring discourse bias using text network analysis](https://towardsdatascience.com/measuring-discourse-bias-using-text-network-analysis-9f251be5f6f3).
+
+I wanted to see if his thesis could be tested via a separate Python implementation instead of the built-in version of parts of his ideas in Dmitry's web based open source tool [InfraNodus](https://infranodus.com/). After contacting Dmitry I decided to code a library according to his instructions. 
+
+We ended up coding it together, evaluated it on the [PAN Semeval 2019 Hyperpartisan News Detection dataset](https://pan.webis.de/semeval19/semeval19-web/) and published the results here. The code for what we ended up calling DiscourseDiversity is hosted on [Gitlab](https://gitlab.com/mattiasostmar/discoursediversity). 
 
 # Dataset
 ## Source
