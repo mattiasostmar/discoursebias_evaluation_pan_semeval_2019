@@ -1,3 +1,6 @@
+# Overview
+After reading Dmitry Paranyushkins towardsdatascience blog post [Measuring discourse bias using text network analysis](, see https://towardsdatascience.com/measuring-discourse-bias-using-text-network-analysis-9f251be5f6f3. ) I wanted to see if his thesis could be tested via an Python implementation. After contacting Dmitry I decided to code a library according to his instructions. We ended up coding it together, evaluate it on the [PAN Semeval 2019 Hyperpartisan News Detection dataset](https://pan.webis.de/semeval19/semeval19-web/) and publish the results here. The code is hosted on [Gitlab](https://gitlab.com/mattiasostmar/discoursediversity). 
+
 # Dataset
 ## Source
 The labeled dataset is from [https://pan.webis.de/semeval19/semeval19-web/](https://pan.webis.de/semeval19/semeval19-web/). Access to the actual dataset can be applied for at [https://zenodo.org/record/1489920](https://zenodo.org/record/1489920).
